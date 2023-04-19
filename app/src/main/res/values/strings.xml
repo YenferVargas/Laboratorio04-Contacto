@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratorio04</string>
+    <string name="contactos">Contactos</string>
+    <string name="llamar">Llamar</string>
+    <string name="cel">Cel: </string>
+    <string name="correo">Correo: </string>
+    <string name="nombre">Maria Mamani</string>
+    <string name="numero">992378070</string>
+    <string name="gmail">maria@gmail.com</string>
+</resources>
